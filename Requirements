@@ -1,0 +1,5 @@
+To use the kyra assistant, install and run the following libraries, used to allow like a human like convo.
+Here are these;
+1.speechrecognition
+2.pyttsx3
+3.pyaudio
